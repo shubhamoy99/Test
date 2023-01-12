@@ -1,2 +1,2 @@
 This is file2.
-Created to add multiple files.
+Created to add a new File.
