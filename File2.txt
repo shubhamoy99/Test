@@ -4,3 +4,5 @@ Modifying File2 adding next line.
 Hi Buddy
 Change 1
 Change 2
+Change 3
+Change 4
