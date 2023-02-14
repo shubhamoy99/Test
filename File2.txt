@@ -2,3 +2,4 @@ This is file2.
 Created to add a new File.
 Modifying File2 adding next line.
 Change 1
+Change 2
