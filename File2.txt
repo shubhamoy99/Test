@@ -1,5 +1,6 @@
 This is file2.
 Created to add a new File.
 Modifying File2 adding next line.
+Hi Buddy
 Change 1
 Change 2
